@@ -1,1 +1,1 @@
-# glowing-octo-guacamole
+# glowing guacamole
